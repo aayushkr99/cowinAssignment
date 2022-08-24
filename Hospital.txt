@@ -1,0 +1,1 @@
+{"code":200,"message":"Hospitals sent successfully","result":[{"name":"Hapjan BPHC (COVISHIELD)","sessions":[{"available_capacity":0,"vaccine":"CORBEVAX"}]},{"name":"Old Civil Hospital Chapakhowa","sessions":[{"available_capacity":0,"vaccine":"COVAXIN"}]}]}
